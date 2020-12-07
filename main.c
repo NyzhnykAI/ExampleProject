@@ -2,7 +2,7 @@
 
 int main() {
 	printf("Hello world");
-	int data = 100;
-	printf("\n%d\n", data);
+	int data = 200;
+	printf("\n%d%d\n", data, data);
 	return 0;
 }
